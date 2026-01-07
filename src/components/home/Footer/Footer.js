@@ -48,7 +48,7 @@ const Footer = () => {
                 </li>
               </a>
               <a
-                href="https://github.com/noorjsdivs"
+                href="https://github.com/DennisNKamau"
                 target="_blank"
                 rel="noreferrer"
               >
