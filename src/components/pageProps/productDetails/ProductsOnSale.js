@@ -1,5 +1,5 @@
 import React from "react";
-import { SplOfferData } from "../../../constants";
+import { SplOfferData } from "../../../../../../Website templates/orebishopping/src/constants";
 
 const ProductsOnSale = () => {
   return (
